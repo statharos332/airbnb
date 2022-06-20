@@ -1,38 +1,100 @@
-.App {
-  text-align: center;
+html, body{
+  max-width: 100%;
+  overflow-x: hidden;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+nav {
   display: flex;
-  flex-direction: column;
+  height: 70px;
+  background-color:white;
+  width: 100%;
+  padding: 20px 36px;
+  box-shadow: 0px 14px 21px -3px rgba(0,0,0,0.06);
+-webkit-box-shadow: 0px 14px 21px -3px rgba(0,0,0,0.06);
+-moz-box-shadow: 0px 14px 21px -3px rgba(0,0,0,0.06);
+z-index: 100;
+align-items: center;
+justify-content: space-between;
+z-index: 100;
+width: 100%;
+position: sticky;
+
+}
+
+.header_icon {
+  object-fit: contain;
+  height: 100px;
+  margin-left: 20px;
+  width: 150px;
+}
+
+.slider-span {
+  display:flex;
+  font-size:25px;
+  font-weight:bold;
+  color:black;
+  position:absolute;
+  padding:35px 55px;
+  background-color: aquamarine;
+  margin-left: 25px;
+  margin-top: 25px;
+  border-radius: 15px;
+
+}
+
+.slider-img {
+  display:flex;
+  position:absolute;
+  width: 1440px;
+  z-index: 0;
+  margin-top: -375px;
+  
+  
+}
+
+.main-slider {
+  height:400px;
+}
+
+.main-slider h2 {
+  margin-left: 36px;
+}
+
+.slick-track{
+  height: 450px;
+}
+
+.header_center {
+  display: flex;
+  flex: 1;
   align-items: center;
+  max-width: fit-content;
+  height: 50px;
+  border: 1px solid lightgrey;
+  border-radius: 999px;
+  
+}
+
+.header_center > input {
+  border:none;
+  outline-width:0 ;
+  padding: 10px;
+  width: auto;
+  margin:20px;
+}
+
+.header_right {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 15vw;
+  margin-right: 80px;
+}
+
+
+.home_cards {
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  margin-top: 50px;
 }

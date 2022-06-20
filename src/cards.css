@@ -1,0 +1,47 @@
+.cards {
+    margin: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    transition:trasform 100ms ease-in;
+    cursor: pointer;
+    margin-top: 200px;
+    display: inline-flex;
+   
+}
+
+.cards img {
+    object-fit: fill;
+    min-width: 300px;
+    min-height: 300px;
+    max-width: 628px;
+    
+}
+
+
+.title {
+    position: absolute;
+    color: white;
+    font-size: 31px;
+    padding: 40px;
+    text-align: initial;
+    width: 40%;
+    letter-spacing: -0.02em;
+    line-height: 46px;
+}
+
+
+
+.title h2 {
+  margin: 0;
+    
+}
+.title a {
+   font-size: 16px;
+   line-height: 6;
+   border: 1px solid;
+   padding: 14px 24px;
+   border-radius: 10px;
+   color: black;
+   background-color: white;
+   font-weight: 600;
+}

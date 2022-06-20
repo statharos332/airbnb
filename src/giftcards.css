@@ -1,0 +1,44 @@
+.gift-cards {
+    display: flex;
+    padding-top: 48px;
+    
+
+}
+
+.gift-cards-left {
+    padding: 0 0 0 80px;
+    width: 412px;
+    flex-direction:column;
+    display: flex;
+    
+}
+
+.gift-cards-left span {
+    padding-bottom: 24px;
+}
+
+.gift-cards-left a {
+    border-radius: 8px;
+    padding: 16px 8px;
+    background: black;
+    width: 30%;
+    color: white;
+    text-align: center;
+    font-weight: 800;
+}
+
+.gift-cards span {
+    font-size: 36px;
+    font-weight: 800;
+    
+}
+
+.gift-image {
+    float: left;
+    width: 73%;
+}
+
+.gift-cards img {
+    width: 100%;
+}
+
