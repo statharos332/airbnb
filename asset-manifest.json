@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/airbnb/static/css/main.824c2c13.css",
+    "main.js": "/airbnb/static/js/main.74ea10c3.js",
+    "static/js/787.b701888c.chunk.js": "/airbnb/static/js/787.b701888c.chunk.js",
+    "static/media/panel.jpeg": "/airbnb/static/media/panel.504c768dff726a41ef36.jpeg",
+    "static/media/Villa_Vau.jpeg": "/airbnb/static/media/Villa_Vau.61f137b8526ff9c4966c.jpeg",
+    "static/media/Villa-Tun.jpeg": "/airbnb/static/media/Villa-Tun.f3fd7461fae0905ece6e.jpeg",
+    "static/media/Ranch.jpeg": "/airbnb/static/media/Ranch.6f1bf60183c2fe41e359.jpeg",
+    "static/media/athens.webp": "/airbnb/static/media/athens.4ed926a958fdad0cd4de.webp",
+    "static/media/athens2.webp": "/airbnb/static/media/athens2.0e6a6cedc9f2900a9df4.webp",
+    "static/media/athens4.webp": "/airbnb/static/media/athens4.a599792abbfcdb23deb0.webp",
+    "static/media/2f5a15c7-2170-420a-9c48-9ac88a80a7fa.webp": "/airbnb/static/media/2f5a15c7-2170-420a-9c48-9ac88a80a7fa.e7093a3335f0b27e00da.webp",
+    "static/media/Airbnb_Logo.png": "/airbnb/static/media/Airbnb_Logo.e8c61a2b7a3964ee2779.png",
+    "static/media/slick.svg": "/airbnb/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/airbnb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/airbnb/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/airbnb/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/airbnb/index.html",
+    "main.824c2c13.css.map": "/airbnb/static/css/main.824c2c13.css.map",
+    "main.74ea10c3.js.map": "/airbnb/static/js/main.74ea10c3.js.map",
+    "787.b701888c.chunk.js.map": "/airbnb/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.824c2c13.css",
+    "static/js/main.74ea10c3.js"
+  ]
+}
